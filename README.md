@@ -7,6 +7,7 @@ Data: https://www.kaggle.com/unsdsn/world-happiness
 
 Stakeholder: The HR department of an organization planning where to send employees for a workation.
 
+---
 
 Below is a table presenting the results of the analysis of the top 20 countries that would be excellent options for a workation.
 
